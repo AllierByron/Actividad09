@@ -99,7 +99,7 @@
                 android:layout_height="47dp"
                 android:layout_marginEnd="8dp"
                 android:layout_weight="1"
-                tools:srcCompat="@android:drawable/ic_menu_add" />
+                android:srcCompat="@android:drawable/ic_menu_add" />
 
             <ImageButton
                 android:id="@+id/btnBuscar"
@@ -107,7 +107,7 @@
                 android:layout_height="47dp"
                 android:layout_marginEnd="8dp"
                 android:layout_weight="1"
-                tools:srcCompat="?android:attr/actionModeWebSearchDrawable" />
+                android:srcCompat="?android:attr/actionModeWebSearchDrawable" />
 
             <ImageButton
                 android:id="@+id/btnActualizar"
@@ -115,7 +115,7 @@
                 android:layout_height="47dp"
                 android:layout_marginEnd="8dp"
                 android:layout_weight="1"
-                tools:srcCompat="@android:drawable/ic_popup_sync" />
+                android:srcCompat="@android:drawable/ic_popup_sync" />
 
             <ImageButton
                 android:id="@+id/btnEliminar"
@@ -123,7 +123,7 @@
                 android:layout_height="47dp"
                 android:layout_marginEnd="8dp"
                 android:layout_weight="1"
-                tools:srcCompat="@android:drawable/ic_menu_close_clear_cancel" />
+                android:srcCompat="@android:drawable/ic_menu_close_clear_cancel" />
 
             <Button
                 android:id="@+id/btnLista"
